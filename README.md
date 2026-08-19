@@ -25,8 +25,7 @@ below k ≈ 1200 and again beyond k ≈ 1732 — but on the intervening band of
 levels the whole anchor family departs from the law by a common
 **6.4 % ± 1.8 %**, established by three pre-registered measurements,
 bounded on both sides by conformity, and unexplained by any correction the
-derivation supplies. An eighteen-step verification chain (paper, Appendix B)
-excludes computational and elementary-arithmetic explanations.
+derivation supplies.
 
 ## Layout
 
