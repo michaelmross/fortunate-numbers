@@ -4,6 +4,8 @@ Data, code, and results for **[Two-Sided Fortunate Numbers and
 Goldbach Amplification for Primorial Multiples](https://doi.org/10.5281/zenodo.22018781)**
 (M. M. Ross, 2026).
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1339494240-blue.svg)](https://doi.org/10.5281/zenodo.22018881)
+
 For an anchor `N = R · p_k#` (a multiple of the k-th primorial), every
 Goldbach complement `N − p` is coprime to `p_k#`, and the least offsets
 `m > 1` with `N ± m` prime — the two-sided, multiplier-generalized
