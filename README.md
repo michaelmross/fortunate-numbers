@@ -1,7 +1,7 @@
 # Two-Sided Fortunate Numbers
 
-Data, code, and paper for **"The Distribution of Two-Sided Fortunate Numbers
-and the Goldbach Amplification Constant for Primorials and Their Multiples"**
+Data, code, and paper for **"Two-Sided Fortunate Numbers and
+Goldbach Amplification for Primorial Multiples"**
 (M. M. Ross, 2026).
 
 For an anchor `N = R · p_k#` (a multiple of the k-th primorial), every
@@ -72,7 +72,6 @@ To reconstruct any prime in full:
 
 ## Related
 
-- Companion paper (deterministic theory: symmetries, the prime-gap
   equivalence, the invisibility theorem): **goldbach-primorials**.
 - OEIS: A005235, A055211 (classical R = 1 Fortunate numbers); the
   multiplier-family sequences are catalogued from this data.
