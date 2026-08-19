@@ -1,7 +1,7 @@
 # Two-Sided Fortunate Numbers
 
-Data, code, and paper for **"Two-Sided Fortunate Numbers and
-Goldbach Amplification for Primorial Multiples"**
+Data, code, and results for **[Two-Sided Fortunate Numbers and
+Goldbach Amplification for Primorial Multiples](https://doi.org/10.5281/zenodo.22018781)**
 (M. M. Ross, 2026).
 
 For an anchor `N = R · p_k#` (a multiple of the k-th primorial), every
