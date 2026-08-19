@@ -19,8 +19,8 @@ Hardy–Littlewood hypothesis), and measures the law
     T = (prime candidates up to the first success) · q_k(R)  ⟶  Exp(1),
 
 whose rate constant is the Goldbach amplification factor `e^γ`. Across a
-fourteen-anchor dataset of **8,946 probable primes** (anchors up to
-**~7,500 digits**, k ≤ 2000), the constant is confirmed to three digits
+fourteen-anchor dataset of **8,946 probable primes** (up to
+**7,482 digits**, k ≤ 2000), the constant is confirmed to three digits
 below k ≈ 1200 and again beyond k ≈ 1732 — but on the intervening band of
 levels the whole anchor family departs from the law by a common
 **6.4 % ± 1.8 %**, established by three pre-registered measurements,
