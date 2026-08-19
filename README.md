@@ -69,13 +69,6 @@ To reconstruct any prime in full:
 
     python code/expand_primes.py 1467 12281 --full
 
-## Related
-
-- Companion paper (deterministic theory: symmetries, the prime-gap
-  equivalence, the invisibility theorem): **goldbach-primorials**.
-- OEIS: A005235, A055211 (classical R = 1 Fortunate numbers); the
-  multiplier-family sequences are catalogued from this data.
-
 ## License
 
 Data and code released under [choose: CC-BY-4.0 / MIT]; see LICENSE.
