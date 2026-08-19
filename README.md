@@ -20,7 +20,7 @@ Hardy–Littlewood hypothesis), and measures the law
 
 whose rate constant is the Goldbach amplification factor `e^γ`. Across a
 fourteen-anchor dataset of **8,946 probable primes** (up to
-**7,482 digits**, k ≤ 2000), the constant is confirmed to three digits
+**7,482 digits** at k ≤ 2000), the constant is confirmed to three digits
 below k ≈ 1200 and again beyond k ≈ 1732 — but on the intervening band of
 levels the whole anchor family departs from the law by a common
 **6.4 % ± 1.8 %**, established by three pre-registered measurements,
