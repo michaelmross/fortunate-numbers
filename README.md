@@ -30,7 +30,6 @@ excludes computational and elementary-arithmetic explanations.
 
 ## Layout
 
-    paper/     the manuscript (LaTeX source + PDF)
     data/      raw append-only JSONL checkpoints, one per anchor multiplier R
     results/   fortunate_all.csv — the merged, analysis-ready dataset
     code/      generators, analyzers, and the prime expander
@@ -72,15 +71,10 @@ To reconstruct any prime in full:
 
 ## Related
 
+- Companion paper (deterministic theory: symmetries, the prime-gap
   equivalence, the invisibility theorem): **goldbach-primorials**.
 - OEIS: A005235, A055211 (classical R = 1 Fortunate numbers); the
   multiplier-family sequences are catalogued from this data.
-
-## Citing
-
-    M. M. Ross, "The Distribution of Two-Sided Fortunate Numbers and the
-    Goldbach Amplification Constant for Primorials and Their Multiples,"
-    Zenodo, 2026. [DOI]
 
 ## License
 
