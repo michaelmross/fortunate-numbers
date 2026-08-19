@@ -1,6 +1,6 @@
 # Code for Data Generation
 
-"Two-Sided Fortunate Numbers and Goldbach Amplification for Primorial Multiples"
+Code for data generation for "Two-Sided Fortunate Numbers and Goldbach Amplification for Primorial Multiples"
 
 Python 3, requires `gmpy2` (generation) and `numpy`, `scipy` (analysis).
 All generators write append-only, resumable JSONL checkpoints; all
