@@ -1,4 +1,4 @@
-# fortunate_all.csv
+# Comprehensive Dataset
 
 Comprehensive dataset for "Two-Sided Fortunate Numbers and
 Goldbach Amplification for Primorial Multiples"
