@@ -10,7 +10,7 @@ For an anchor `N = R · p_k#` (a multiple of the k-th primorial), every
 Goldbach complement `N − p` is coprime to `p_k#`, and the least offsets
 `m > 1` with `N ± m` prime — the two-sided, multiplier-generalized
 **Fortunate numbers** — are themselves prime whenever they fall below
-`p_{k+1}²`. This repository measures the distribution of those offsets.
+`p_{k+1}²`. This [repository](https://github.com/michaelmross/fortunate-numbers) measures the distribution of those offsets.
 
 ## Main result
 
